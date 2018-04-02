@@ -5,4 +5,4 @@ title: Markdonw example
 
 jdfjfdjdfhkdhjdhdf
 
-(/images/out.gif)
+(/images/file.gif)
