@@ -1,6 +1,6 @@
------
+---
 layout: post
-title: Markdown Example 
------
+title: Markdonw example
+---
 
 jdfjfdjdfhkdhjdhdf
