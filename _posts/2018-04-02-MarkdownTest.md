@@ -5,4 +5,4 @@ title: Markdonw example
 
 jdfjfdjdfhkdhjdhdf
 
-!(/images/file.gif)
+![](/images/file.gif)
