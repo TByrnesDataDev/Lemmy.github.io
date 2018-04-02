@@ -5,4 +5,4 @@ title: Markdonw example
 
 jdfjfdjdfhkdhjdhdf
 
-(/images/file.gif)
+![GitHub Logo](/images/file.gif)
