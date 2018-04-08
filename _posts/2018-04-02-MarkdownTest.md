@@ -12,7 +12,7 @@ Clearly I needed to zoom in closer to the affected area, but you get the point. 
 
 If you're using linux, i think this capability is built in. however for windows users, when you export your time lapse, it will export each individual frame into the given folder.
 
-[frames](/images/Frame.png)
+[frames](/images/Frames.png)
 
 To convert these frames into the prefered video/gif format, I used FFMPEG. pretty easy to download, good documentation, and heaps of stack-overflow Q&A's. 
 
