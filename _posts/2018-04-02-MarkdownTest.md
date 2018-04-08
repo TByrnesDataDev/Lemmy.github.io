@@ -16,10 +16,10 @@ If you're using linux, i think this capability is built in. however for windows 
 
 To convert these frames into the prefered video/gif format, I used FFMPEG. pretty easy to download, good documentation, and heaps of stack-overflow Q&A's. 
 
-##Step 1.
+## Step 1.
 Download and install [FFMPEG](https://www.ffmpeg.org/download.html). 
 
-##Step 2. 
+## Step 2. 
 Open the command line and navigate to where the frames are saved. in this case it is 'HurricanFrames'. 
 
 This command will convert the images straight into a gif.
@@ -32,7 +32,7 @@ The below command will convert all thos frames into a video file.
 ```
 The framerate determines frames/second, so this will cause each frame to appear for 1/5 of a second. 
 
-##Step 3. 
+## Step 3. 
 Once this video is created, it is converted into a pallete of colours
 ```
 ffmpeg -i video.avi -vf palettegen=max_colors=12 palette.png
