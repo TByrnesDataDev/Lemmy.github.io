@@ -16,7 +16,7 @@ If you're using linux, i think this capability is built in. however for windows 
 
 To convert these frames into the prefered video/gif format, I used FFMPEG. pretty easy to download, good documentation, and heaps of stack-overflow Q&A's. 
 
-Step 1. Download and install FFMPEG. 
+Step 1. Download and install [FFMPEG](https://www.ffmpeg.org/download.html). 
 
 Step 2. open the command line and navigate to where the frames are saved. in this case it is 'HurricanFrames'. 
 
