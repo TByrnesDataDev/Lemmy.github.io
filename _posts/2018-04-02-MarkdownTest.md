@@ -23,11 +23,9 @@ Step 2. open the command line and navigate to where the frames are saved. in thi
 This command will convert the images straight into a gif.
 ```
 ffmpeg -framerate 5 -i frame%03d.png out.gif
-```
 
-The below command will convert all thos frames into a video file. 
+" The below command will convert all thos frames into a video file. 
 
-```
 \HurricaneFrames>ffmpeg -framerate 5 -i frame%03d.png video.avi
 ```
 The framerate determines frames/second, so this will cause each frame to appear for 1/5 of a second. 
