@@ -11,3 +11,5 @@ print s
 `
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![model](/images/3dModelOutput.html)
