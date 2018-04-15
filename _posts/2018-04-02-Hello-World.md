@@ -12,3 +12,4 @@ print s
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+(/images/3dModelOutplut.html)
