@@ -5,7 +5,7 @@ title: First Post
 
 First post on the newly generated jekyll page! Will need to investigate how markdown wors, and how to post code, gifs and images so I can kick this into gear.
 
-<script src="https://github.com/TierynnB/TierynnB.github.io/blob/master/images/model.stl">
+<script src="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/blob/master/images/model.stl">
 {newline}
 </script>
 
