@@ -12,4 +12,4 @@ print s
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-![model](../mapModels/3dModelOutput.html)
+![model](https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html)
