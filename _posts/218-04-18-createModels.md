@@ -7,7 +7,7 @@ This post will show hot to create html pages for your maps that let the viewer t
 
 <h2>Create HTML Model</h2>
 
-An example of the HTML model is here.
+An example of the HTML [model](https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html).
 <h3>Step 1.</h3>
 Download the QGIS2three.js plugin in QGIS (I used version 2.18.17, please check if this plugin exists for your version).
 
@@ -25,7 +25,7 @@ find the file and open it! it should give you something like this.
 
 An example of the .stl model is here.
 Now the steps for creating a .stl object are a little trickier, but that are based off what was done to produce the html version. 
-
+<script src="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/master/images/model.stl">{newline}</script>
 <h2>Create .STL Model</h2>
 requirements: install Blender. its animation software. this will be used to combine the three .stl files into a single 3d object.
 
