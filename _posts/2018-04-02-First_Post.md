@@ -3,13 +3,12 @@ layout: post
 title: First Post
 ---
 
-First post on the newly generated jekyll page! Will need to investigate how markdown wors, and how to post code, gifs and images so I can kick this into gear.
+I intend to use this github page as a portfolio of work, initially to delve int QIS analysis (using QGIS mostly) but also python development. Also discovering the wonders of github, and markdown!
 
 `
 s = "Python syntax highlighting"
 print s
 `
-I intend to use this github page as a portfolio of work, initially to delve int QIS analysis (using QGIS mostly) but also python development. 
 
 As an example I figured out that QGIS lets you export your aps into html form, like below. 
 [model](https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html)
