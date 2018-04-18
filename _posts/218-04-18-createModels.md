@@ -50,7 +50,5 @@ Export the combined object as an .stl object.
 To display this object on a github page as I have it here, put it somewhere in your repository. Then add a script tag like this one to your markdown.
 
 ` 
-<script src="https://embed.github.com/view/3d//<github username>/<repositoryname>/<repo location>/model.stl">
-{newline}
-</script>
+<script src="https://embed.github.com/view/3d/<username>/<repo>/<ref>/<path_to_file>">{newline}</script>
 `
