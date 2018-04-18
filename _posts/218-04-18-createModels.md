@@ -5,7 +5,7 @@ title: Model (html and .stl) Creation
 
 This post will show hot to create html pages for your maps that let the viewer twist and turn the model. This is a pretty cool tool to view maps or areas with interesting topology or elevation. 
 
-<h1>Create HTML Model</h1>
+<h2>Create HTML Model</h2>
 
 An example of the HTML model is here.
 <h3>Step 1.</h3>
@@ -26,7 +26,7 @@ find the file and open it! it should give you something like this.
 An example of the .stl model is here.
 Now the steps for creating a .stl object are a little trickier, but that are based off what was done to produce the html version. 
 
-<h1>Create .STL Model</h1>
+<h2>Create .STL Model</h2>
 requirements: install Blender. its animation software. this will be used to combine the three .stl files into a single 3d object.
 
 <h3>Step 1. </h3>
