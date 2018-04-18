@@ -22,3 +22,11 @@ Name the file you're exporting and press 'Finish'.
 find the file and open it! it should give you something like this.
 
 An example of the .stl model is here.
+Now the steps for creating a .stl object are a little trickier, but that are based off what was done to produce the html version. 
+<h2>Step 1. </h2>
+go back to the QGIS project you created, and got the the QGIS2three.js plugin. There is a ddropdown at the top of the popup, select 'Export'. Press Finish.
+
+<h2>Step 2. </h2>
+It should open up a page that looks like this:
+
+select .stl (ASCII). I Don't know the difference between these different types, but this exercise may work with some(or all) of the others.
