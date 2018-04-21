@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model (html and .stl) Creation
+title: Model.html Creation
 ---
 
 This post will show hot to create html pages for your maps that let the viewer twist and turn the model. This is a pretty cool tool to view maps or areas with interesting topology or elevation. 
