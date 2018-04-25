@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Brisbane Developer, currently working in SAP technology, who is interested in becoming a data or spatial analyst. This site will serve as a portfolio, shwoing my work with QGIS and python. I also hope to create something useful which hasn't been effectively explained elsewhere, so I'm aiming to have interesting maps and clear steps in all my posts.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Im gonna enable comments at some point, working on it!
