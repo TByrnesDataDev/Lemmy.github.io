@@ -8,7 +8,7 @@ This post will show hot to create html pages for your maps that let the viewer t
 <h2>Create HTML Model</h2>
 
 An example of the HTML 
-<iframe src="https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html">
+<iframe src="https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html" align="middle" height="380" width="380">
 {newline}
 </iframe>.
 <h3>Step 1.</h3>
