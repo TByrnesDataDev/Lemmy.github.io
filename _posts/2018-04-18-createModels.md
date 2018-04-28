@@ -5,13 +5,11 @@ title: Model.html Creation
 
 This post will show hot to create html pages for your maps that let the viewer twist and turn the model. This is a pretty cool tool to view maps or areas with interesting topology or elevation. 
 
-<h2>Create HTML Model</h2>
-
-An example of the HTML 
 <iframe src="https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html" align="middle" height="380" width="380">
 {newline}
 </iframe>.
 <!-- more -->
+<h2>Create HTML Model</h2>
 <h3>Step 1.</h3>
 Download the QGIS2three.js plugin in QGIS (I used version 2.18.17, please check if this plugin exists for your version).
 
