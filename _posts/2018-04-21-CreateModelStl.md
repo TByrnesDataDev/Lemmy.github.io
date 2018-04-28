@@ -6,6 +6,7 @@ title: Model.stl Creation
 An example of the .stl model is here.
 Now the steps for creating a .stl object are a little trickier, but that are based off what was done to produce the html version. 
 <script src="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/master/images/model.stl">{newline}</script>
+<!-- more -->
 <h2>Create .STL Model</h2>
 requirements: install Blender. its animation software. this will be used to combine the three .stl files into a single 3d object.
 
