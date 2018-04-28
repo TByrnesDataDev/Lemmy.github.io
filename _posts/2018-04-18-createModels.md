@@ -11,6 +11,7 @@ An example of the HTML
 <iframe src="https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html" align="middle" height="380" width="380">
 {newline}
 </iframe>.
+<!-- more -->
 <h3>Step 1.</h3>
 Download the QGIS2three.js plugin in QGIS (I used version 2.18.17, please check if this plugin exists for your version).
 
