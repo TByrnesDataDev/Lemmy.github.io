@@ -224,10 +224,14 @@ nav {
     display: block;
     font-size: 16px;
   }
+	
+h1 {
+color: $lightgray
+}
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $lightgray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
