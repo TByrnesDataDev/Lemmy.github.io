@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $lightGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightgray;
   font-size: 16px;
 
   @include mobile {
@@ -225,9 +225,6 @@ nav {
     font-size: 16px;
   }
 	
-h1 {
-color: $lightgray
-}
 
   a {
     margin-left: 20px;
