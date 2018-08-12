@@ -5,7 +5,7 @@ title: Model.stl Creation
 
 An example of the .stl model is here.
 Now the steps for creating a .stl object are a little trickier, but that are based off what was done to produce the html version. 
-<script src="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/master/images/model.stl">{newline}</script>
+<script src="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/master/images/model.stl" scrolling="no">{newline}</script>
 
 <!-- more -->
 
