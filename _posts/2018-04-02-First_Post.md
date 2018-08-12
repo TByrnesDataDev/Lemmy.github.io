@@ -15,8 +15,6 @@ As an example I figured out that QGIS lets you export your aps into html form, l
 
 Or to display a map as a model (.stl, an object type used in animation/any sort of modelling software such as Blender, AutoCad I assume).
 
-</br>
-
 {% include source.html url="https://embed.github.com/view/3d/TierynnB/TierynnB.github.io/master/images/model.stl" description="model description" %}
 
 In a later post I will explain the steps to do both of these.
