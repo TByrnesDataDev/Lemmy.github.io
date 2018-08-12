@@ -5,10 +5,10 @@ title: First Post
 
 I intend to use this github page as a portfolio of work, initially to delve int QIS analysis (using QGIS mostly) but also python development. Also discovering the wonders of github, and markdown!
 <!-- more -->
-`
+```
 s = "Python syntax highlighting"
 print s
-`
+```
 <!-- more -->
 As an example I figured out that QGIS lets you export your aps into html form, like below. 
 [model](https://rawgit.com/TierynnB/TierynnB.github.io/master/mapModels/3dModelOutput.html)
