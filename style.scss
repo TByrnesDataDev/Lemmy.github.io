@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $lightgray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -228,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $lightgray;
+    color: $lihtGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
