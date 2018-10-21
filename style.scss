@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $lightgrey
+	background: #fff
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -248,10 +248,6 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-// margin: 10px; 
-    padding: 10px;
-    background: #fff;
-    // border: 10px; 
 }
 
 .posts > .post:last-child {
