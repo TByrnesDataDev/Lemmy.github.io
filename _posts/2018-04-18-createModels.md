@@ -5,7 +5,7 @@ title: Model.html Creation
 
 This post will show hot to create html pages for your maps that let the viewer twist and turn the model. This is a pretty cool tool to view maps or areas with interesting topology or elevation. 
 
-<iframe src="https://rawcdn.githack.com/TierynnB/TierynnB.github.io/master/mapModels/Create_HTML_QGIS/model_output.html" align="middle" height="460" width="460">
+<iframe src="https://raw.githack.com/TierynnB/TierynnB.github.io/master/mapModels/Create_HTML_QGIS/model_output.html" align="middle" height="460" width="460">
 {newline}
 </iframe>.
 <!-- more -->
