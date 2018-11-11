@@ -1,0 +1,43 @@
+{
+  "CTRL": {
+    "comboBox_Controls": "OrbitControls.js"
+  }, 
+  "DEM": {
+    "checkBox_Clip": false, 
+    "checkBox_Frame": false, 
+    "checkBox_Shading": true, 
+    "checkBox_Sides": true, 
+    "checkBox_Surroundings": false, 
+    "checkBox_TransparentBackground": false, 
+    "comboBox_ClipLayer": null, 
+    "comboBox_DEMLayer": "CLIP20181107190343074", 
+    "comboBox_TextureSize": 100, 
+    "horizontalSlider_DEMSize": 2, 
+    "layerImageIds": [
+      "CLIP20181107190343074"
+    ], 
+    "lineEdit_Color": "", 
+    "lineEdit_ImageFile": "", 
+    "lineEdit_centerX": "", 
+    "lineEdit_centerY": "", 
+    "lineEdit_rectHeight": "", 
+    "lineEdit_rectWidth": "", 
+    "radioButton_LayerImage": true, 
+    "radioButton_Simple": true, 
+    "spinBox_Height": 4, 
+    "spinBox_Roughening": 4, 
+    "spinBox_Size": 5, 
+    "spinBox_demtransp": 0, 
+    "visible": false
+  }, 
+  "OutputFilename": "C:/Users/tbyrn/Documents/Github Projects/STL Model Creation/model_output.html", 
+  "PluginVersion": "1.4.2", 
+  "Template": "FileExport.html", 
+  "WORLD": {
+    "lineEdit_BaseSize": "100", 
+    "lineEdit_Color": "", 
+    "lineEdit_zFactor": "1.5", 
+    "lineEdit_zShift": "0", 
+    "radioButton_Color": true
+  }
+}
